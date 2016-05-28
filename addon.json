@@ -1,0 +1,11 @@
+{
+	"title"		:	"Reasons 2 Kill",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
