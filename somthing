@@ -1,0 +1,4 @@
+     1>cl : Command line warning D9014: invalid value '2065' for '/wd'; assuming '4999'
+     1>cl : Command line warning D9014: invalid value '2065' for '/wd'; assuming '4999'
+         weapon_rpg.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\dlls /I..\engine /I..\common /I..\pm_shared /I..\game_shared /Zi /nologo /W3 /WX- /O1 /Ob1 /Oy- /D NDEBUG /D WIN32 /D _WINDOWS /D QUIVER /D VOXEL /D QUAKE2 /D VALVE_DLL /D CLIENT_WEAPONS /D _VC80_UPGRADE=0x0600 /D _WINDLL /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Releasehl\\" /Fd".\Releasehl\vc100.pdb" /FR".\Releasehl\\" /Gd /TC /wd2065 /wd4996 /wd4005 /wd2065 /analyze- /errorReport:prompt ..\pm_shared\pm_debug.c ..\pm_shared\pm_math.c ..\pm_shared\pm_shared.c
